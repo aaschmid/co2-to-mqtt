@@ -1,0 +1,9 @@
+.idea/
+.tox/
+.venv/
+*.iml
+__pycache__
+*.egg-info
+.cache/
+
+config.yaml
